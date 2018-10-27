@@ -6,8 +6,6 @@ publication_types = ["2"]
 selected = "false"
 publication = "*Methods Ecol. Evol.*"
 
-url_pdf = 'pub.pdf'
-
 url_code = 'https://github.com/andrew-edwards/fitting-size-spectra'
 
 +++

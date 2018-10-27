@@ -14,7 +14,7 @@ weight = 5
 ​    "Fisheries",
 ​    "Climate change",
 ​    "Food security"
-  ]
+]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

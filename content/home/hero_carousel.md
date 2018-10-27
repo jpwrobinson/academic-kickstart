@@ -17,11 +17,6 @@ height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = "Climate change"
-  content = ""
-  align = "right"  # Choose `center`, `left`, or `right`.
-
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
@@ -31,8 +26,8 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [[item]]
-  title = "Left"
-  content = "Coral reefs"
+  title = "Coral reefs"
+  content = ""
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -45,5 +40,10 @@ height = "300px"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/SEY_catch.jpg"  # Image path relative to your `static/img/` folder.
+
+[[item]]
+  title = "Climate change"
+  content = ""
+  align = "right"  # Choose `center`, `left`, or `right`.
 
 +++

@@ -5,15 +5,11 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 10
+weight = 8
 
 # List your academic interests.
 [interests]
-  interests = [
-​    "Coral reefs",
-​    "Climate change",
-​    "Fisheries"
-  ]
+  interests = ["Coral reefs", "Climate change", "Fisheries" ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

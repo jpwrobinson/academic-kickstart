@@ -9,7 +9,7 @@ weight = 1
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 3000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -20,7 +20,7 @@ height = "300px"
 [[item]]
   title = "Climate change"
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.

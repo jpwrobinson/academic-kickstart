@@ -1,13 +1,12 @@
 +++
 date = 2016-09-07
 title = "Fishing degrades reef fish size structure"
+[image]
 +++
 
 From spears to gillnets and artisanal fishers to commercial boats, coral reef ecosystems are exploited across a range of fishing pressures and with diverse gear types. Reefs are valuable food resources for tropical coastal communities and yet our understanding of fishing impacts on reefs is often founded on studies that measure how much fish biomass is depleted in fished areas. In order to understand broader impacts on aspects of community structure we quantified reef fish size structure - the fish size distribution, or relative abundance of different body sizes - at major Pacific island groups that span gradients in human presence and environmental influences.
 
 Using data collected by the Coral Reef Ecosystem Programme (NOAA), we measured the size spectrum, the large fish indicator, and total fish biomass at 38 US-affiliated islands and atolls in the Pacific Ocean, ranging from uninhabited pristine reefs (such as Palmyra atoll) to large population centres (such as Honolulu on Oahu). 
-
-image='CREP-map-spectra.png'
 
 The size spectrum is the exponent of the power law distribution of individual body sizes, and may be more widely recognised as the slope of the relationship between abundance ~ body size in log-log space [more information on fitting size spectra here]. The large fish indicator represents the biomass of large fishes relative to total fish biomass, and total fish biomass is the total mass of the fish community. We examined variation in these indicators across human population density, proximity to market centre, sea surface temperature, oceanic productivity, and 5 habitat variables.
 

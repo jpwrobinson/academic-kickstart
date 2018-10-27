@@ -1,6 +1,8 @@
 +++
 date = 2015-11-20
 title = "Size structure of coral reef fish communities"
+[image]
+
 +++
 
 Despite a strong focus on understanding patterns in the diversity, behaviour and functional roles of fish on coral reefs, we know far less about how fish communities are structured. In most aquatic communities, gape limitation and ontogenetic niche shifts produce communities that are size structured, where predators are larger than their prey. Our expectation is that reef fish communities should also be size structured, though this has not been formally tested. In a paper published in a special body size themed issue of the Canadian Journal of Fisheries & Aquatic Sciences, myself and Dr. Julia Baum examined the case for size structuring in the coral reef fish community at Kiritimati Atoll.

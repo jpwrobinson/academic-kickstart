@@ -15,9 +15,6 @@ weight = 5
 ​    "Climate change",
 ​    "Food security"
   ]
-  
-[header]
-image = "headers/KI_underwater.jpeg"
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

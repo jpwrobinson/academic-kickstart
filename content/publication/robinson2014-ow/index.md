@@ -7,8 +7,6 @@ publication_types = ["2"]
 selected = "false"
 publication = "*Mar. Policy*"
 
-url_pdf = 'pub.pdf'
-
 url_code = 'https://github.com/baumlab/evenness'
 
 +++

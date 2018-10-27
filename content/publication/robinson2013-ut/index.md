@@ -8,8 +8,5 @@ abstract = ""
 selected = "false"
 publication = "*Ecol. Evol.*"
 
-url_pdf = 'public/publication/robinson2013-ut/pub.pdf'
-
 +++
 
-git submodule add -f -b master https://github.com/jpwrobinson/jpwrobinson.github.io.git public

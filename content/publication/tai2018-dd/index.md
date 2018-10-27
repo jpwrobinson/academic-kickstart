@@ -7,8 +7,6 @@ abstract = ""
 selected = "false"
 publication = "*Front. Environ. Sci.*"
 
-url_pdf = 'pub.pdf'
-
 url_code = 'https://github.com/travistai2/open-science-cc'
 
 url_custom = [{name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1050289383243468801"}]

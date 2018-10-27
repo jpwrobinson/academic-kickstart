@@ -8,8 +8,6 @@ abstract = ""
 selected = "false"
 publication = "*Mar. Ecol. Prog. Ser.*"
 
-url_pdf = 'content/publications/Hertz2014-pw/pub.pdf'
-
 url_code = 'https://github.com/baumlab/ppmr-isotopes'
 
 +++

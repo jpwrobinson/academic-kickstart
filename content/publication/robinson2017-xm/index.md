@@ -6,8 +6,6 @@ publication_types = ["2"]
 selected = "false"
 publication = "*Glob. Chang. Biol.*"
 
-url_pdf = 'pub.pdf'
-
 url_code = 'https://github.com/baumlab/robinson-reefs-spectra'
 
 +++

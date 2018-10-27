@@ -2,6 +2,7 @@
 date = 2016-09-07
 title = "Fishing degrades reef fish size structure"
 [image]
+focal_point = "Smart" 
 +++
 
 From spears to gillnets and artisanal fishers to commercial boats, coral reef ecosystems are exploited across a range of fishing pressures and with diverse gear types. Reefs are valuable food resources for tropical coastal communities and yet our understanding of fishing impacts on reefs is often founded on studies that measure how much fish biomass is depleted in fished areas. In order to understand broader impacts on aspects of community structure we quantified reef fish size structure - the fish size distribution, or relative abundance of different body sizes - at major Pacific island groups that span gradients in human presence and environmental influences.

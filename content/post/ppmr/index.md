@@ -2,6 +2,7 @@
 date = 2016-07-01
 title = "Predator-prey mass ratios"
 [image]
+focal_point = "Smart" 
 +++
 
 Predator-prey mass ratios (PPMRs) reflect the strength of interactions between predators and prey, and can be used to examine community size structure. PPMRs can be estimated using diet data (e.g. Barnes et al. 2010, Ecology) or with stable isotope methods in which an individual's trophic position is inferred by measuring the fractionation of nitrogen 15-N relative to a baseline value.

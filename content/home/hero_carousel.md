@@ -9,7 +9,7 @@ weight = 1
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -26,24 +26,15 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [[item]]
-  title = "Coral reefs"
+  title = ""
   content = ""
   align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/KI_underwater.jpg"  # Image path relative to your `static/img/` folder.
 
 [[item]]
-  title = "Fisheries"
+  title = ""
   content = ""
   align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/SEY_catch.jpg"  # Image path relative to your `static/img/` folder.
-
-[[item]]
-  title = "Climate change"
-  content = ""
-  align = "right"  # Choose `center`, `left`, or `right`.
 
 +++

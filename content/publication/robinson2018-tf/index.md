@@ -10,9 +10,12 @@ publication = "*Coral Reefs*"
 
 url_code = 'https://github.com/baumlab/Robinson-etal-2018-CoralReefs'
 
-url_custom = [{name = 'Tweetstream', url = 'https://twitter.com/jamespwr/status/1048190945412440069'}]
+url_custom = [{name = "Figures", url = "https://figshare.com/articles/Environmental_conditions_and_herbivore_biomass_determine_coral_reef_benthic_community_composition_implications_for_quantitative_baselines/7294724"}, {name = 'Tweetstream', url = 'https://twitter.com/jamespwr/status/1048190945412440069'}]
 
 +++
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="	10.1007/s00338-018-01737-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Abstract**
 

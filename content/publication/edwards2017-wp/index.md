@@ -10,6 +10,10 @@ url_code = 'https://github.com/andrew-edwards/fitting-size-spectra'
 
 +++
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1111/2041-210X.12641" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 **Abstract**
 
 1. The size spectrum of an ecological community characterizes how a property, such as abundance or biomass, varies with body size. Size spectra are often used as ecosystem indicators of marine systems. They have been fitted to data from various sources, including groundfish trawl surveys, visual surveys of fish in kelp forests and coral reefs, sediment samples of benthic invertebrates and satellite remote sensing of chlorophyll. 

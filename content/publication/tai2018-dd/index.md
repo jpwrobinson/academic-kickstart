@@ -9,9 +9,13 @@ publication = "*Front. Environ. Sci.*"
 
 url_code = 'https://github.com/travistai2/open-science-cc'
 
-url_custom = [{name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1050289383243468801"}]
+url_custom = [{name = "Figures", url = "https://figshare.com/articles/Enhancing_Climate_Change_Research_With_Open_Science/7294733"}, {name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1050289383243468801"}]
 
 +++
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.3389/fenvs.2018.00115" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Abstract**
 

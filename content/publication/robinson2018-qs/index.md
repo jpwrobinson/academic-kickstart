@@ -1,8 +1,7 @@
 +++
 title = "Productive instability of coral reef fisheries after climate-driven regime shifts"
 date = 2018-11-29
-authors = ["James PW Robinson", "Shaun K Wilson", "Jan Robinson", "Calvin Gerry", "Juliette Lucas", "Cindy Assan", "Rodney Govinden",
-​              "Simon Jennings", "Nicholas AJ Graham"]
+authors = ["James PW Robinson", "Shaun K Wilson", "Jan Robinson", "Calvin Gerry", "Juliette Lucas", "Cindy Assan", "Rodney Govinden", "Simon Jennings", "Nicholas AJ Graham"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"

@@ -7,9 +7,9 @@ abstract = ""
 selected = "false"
 publication = "*Nature Ecol. Evo.*"
 
-url_code = 'https://github.com/jamespwr/prod-instability'
+url_code = 'https://github.com/jpwrobinson/prod-instability'
 
-url_custom = [{name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1068177380827648000"}]
+url_custom = [{name = 'Blog', url = 'https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/40032-what-happens-to-fisheries-when-coral-reefs-bleach'}, {name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1068177380827648000"}]
 
 +++
 

@@ -2,14 +2,14 @@
 # Hero Carousel widget.
 widget = "hero_carousel"
 active = true
-date = 2017-10-15T00:00:00
+title='Latest research'
 
 # Order that this section will appear in.
-weight = 1
+weight = 5
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 'false'
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -28,13 +28,8 @@ height = "300px"
 [[item]]
   title = ""
   content = ""
-  align = "left"
+  align = "center"
   overlay_img = "headers/KI_underwater.jpg"  # Image path relative to your `static/img/` folder.
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-  overlay_img = "headers/SEY_catch.jpg"  # Image path relative to your `static/img/` folder.
-
+ 
 +++
+

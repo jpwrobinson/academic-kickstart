@@ -1,27 +1,29 @@
 +++
 # Hero widget.
 widget = "hero"
-active = "false"
-date = 2017-10-15T00:00:00
+active = true
 
-title = ""
+title = "Latest research"
 
 # Order that this section will appear in.
-weight = 3
+weight = 1
 
 # Overlay a color or image (optional).
-#   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/KI_underwater.jpg"  # Image path relative to your `static/img/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
+  
 
+[header]
+  content = ""
+  align = "center"
+  overlay_img = "headers/SEY_catch.jpg"  # Image path relative to your static/img/ folder.
+  overlay_filter = 0.4
+
+[cta]
+  url = "http://jpwrobinson.github.io/publication/robinson2018-qs/robinson2018-qs.pdf"
+  label = '<i class="fas fa-download"></i> Read the Paper'
 +++
 
-
+[How mass coral bleaching impacted coral reef fisheries: a 23-year study of reef fish and fishery catches in Seychelles](http://jpwrobinson.github.io/publication/robinson2018-qs/)
 
 
 

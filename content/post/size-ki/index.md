@@ -11,10 +11,10 @@ Size-structured communities are characterised by two major patterns. First, the
 
 We examined the community structure at Kiritimati (Christmas) Island, the world's largest atoll. Using underwater visual census data and stable isotope analysis of collected fish specimens, we found strong evidence for size structuring in the reef fish community where 1) size spectrum slope was negative and 2) trophic position increased with body mass, both across species (Figure 1a, 1b) and across individuals irrespective of species (Figure 1c, 1d). These relationships improved when we considered herbivorous and carnivorous fish independently (Figure 1b, 1d).
 
-[insert fig] Figure 1 - trophic position ~ body mass relationships at Kiritimati Atoll
+{{< figure src="fig1.jpg" title="Trophic position ~ body mass relationships at Kiritimati Atoll", numbered="true" >}}
 
 In a direct test of metabolic theory, we also examined how abundance ~ body size relationships changed depending on how energy is used within subsets of the community. Metabolic theory predicts that individuals competing for energy through predation (i.e. across multiple trophic levels) will have steeper size spectra than individuals sharing a common energy source (i.e. within a single trophic level), simply due to the inefficiency of energy transfer between trophic levels. On Kiritimati, we examined the size spectrum of carnivores (piscivores, invertivores, planktivores, corallivores) and herbivores (herbivores and detritivores) within the fish community. As predicted, the size spectrum of our carnivore community was steeper than the size spectrum of our herbivore community (Figure 2). However, we our size spectrum slopes were generally shallower than those predicted by metabolic theory, which was likely a result of our inability to sample all individuals that contributed to energy flux within the reef food web (e.g. invertebrates and very small fishes).
 
 We detected differences in community structure within different trophic groups, indicating that is is important to consider how energy is utilised by different compartments of the food web before attempting to understand patterns in community structure.
 
-[insert fig] Figure 2 - size spectra of carnivores and herbivores on Kiritimati Atoll
+{{< figure src="fig2.jpg" title="Size spectra of carnivores and herbivores on Kiritimati Atoll", numbered="true" >}}

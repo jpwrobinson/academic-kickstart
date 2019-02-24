@@ -9,7 +9,7 @@ publication = "*Nature Ecol. Evo.*"
 
 url_code = 'https://github.com/jpwrobinson/prod-instability'
 
-url_custom = [{name = 'Blog', url = 'https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/40032-what-happens-to-fisheries-when-coral-reefs-bleach'}, {name = 'Figures', url = 'https://figshare.com/articles/Productive_instability_of_coral_reef_fisheries_after_climate-driven_regime_shifts/7441262'}, {name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1068177380827648000"}]
+url_custom = [{name = 'Blog', url = 'https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/40032-what-happens-to-fisheries-when-coral-reefs-bleach'}, {name = 'Figures', url = 'https://figshare.com/articles/Productive_instability_of_coral_reef_fisheries_after_climate-driven_regime_shifts/7441262'}, {name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1068177380827648000"}, {name = "Press 1", url = "https://www.ecomagazine.com/news/science/tropical-reefs-continue-to-provide-food-after-coral-bleaching-events"}, {name = "Press 2", url = "https://phys.org/news/2018-11-reef-fisheries-food-coral.html"}]
 
 +++
 

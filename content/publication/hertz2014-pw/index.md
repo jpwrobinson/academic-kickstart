@@ -2,7 +2,7 @@
 title = """Estimation of predator-prey mass ratios using stable isotopes:
 sources of errors"""
 date = 2014-01-01
-authors = ["E Hertz", "J Robinson", "M Trudel", "A Mazumder", "J K Baum"]
+authors = ["Eric Hertz", "James PW Robinson", "Marc Trudel", "Azit Mazumder", "Julia K Baum"]
 publication_types = ["2"]
 selected = "false"
 publication = "*Mar. Ecol. Prog. Ser.*"

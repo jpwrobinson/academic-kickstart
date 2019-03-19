@@ -1,7 +1,7 @@
 +++
 title = """Uncovering drivers of juvenile coral density following mass bleaching"""
 date = 2019-03-15
-authors = ["Jan-Claas Dajka","Shaun K Wilson", "James P W Robinson", 'Karen M Chong-Seng', "Alasdair Harris", "Nicholas A J Graham"]
+authors = ["Jan-Claas Dajka","Shaun K Wilson", "James PW Robinson", 'Karen M Chong-Seng', "Alasdair Harris", "Nicholas AJ Graham"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"
@@ -13,7 +13,7 @@ url_code = 'https://github.com/JanDajka/SeyBabies-2016-bleaching'
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.3389/fenvs.2018.00115" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1007/s00338-019-01785-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Abstract** 			
 

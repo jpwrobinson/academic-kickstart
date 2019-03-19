@@ -1,7 +1,7 @@
 +++
 title = """Enhancing Climate Change Research With Open Science"""
 date = 2018-09-15
-authors = ["Travis C Tai", "James P W Robinson"]
+authors = ["Travis C Tai", "James PW Robinson"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"

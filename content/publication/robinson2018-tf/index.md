@@ -3,7 +3,7 @@ title = """Environmental conditions and herbivore biomass determine coral
 reef benthic community composition: implications for quantitative
 baselines"""
 date = 2018-09-25
-authors = ["James P W Robinson", "Ivor D Williams", "Lauren A Yeager", "Jana M McPherson", "Jeanette Clark", "Thomas A Oliver", "Julia K Baum"]
+authors = ["James PW Robinson", "Ivor D Williams", "Lauren A Yeager", "Jana M McPherson", "Jeanette Clark", "Thomas A Oliver", "Julia K Baum"]
 publication_types = ["2"]
 selected = "false"
 publication = "*Coral Reefs*"

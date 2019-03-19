@@ -9,8 +9,6 @@ publication = "*Coral Reefs*"
 
 url_code = 'https://github.com/JanDajka/SeyBabies-2016-bleaching'
 
-]
-
 +++
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

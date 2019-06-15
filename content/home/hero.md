@@ -15,15 +15,16 @@ weight = 1
 [header]
   content = ""
   align = "center"
-  overlay_img = "headers/SEY_catch.jpg"  # Image path relative to your static/img/ folder.
-  overlay_filter = 0.4
+  overlay_img = "headers/rec_reef_fishes.jpg"  # Image path relative to your static/img/ folder.
+  overlay_filter = 0.6
 
 [cta]
-  url = "http://jpwrobinson.github.io/publication/robinson2018-qs/robinson2018-qs.pdf"
+  url = "http://jpwrobinson.github.io/publication/robinson2019-gc/robinson2019-gc.pdf"
   label = '<i class="fas fa-download"></i> Read the Paper'
+
 +++
 
-[How mass coral bleaching impacted coral reef fisheries: a 23-year study of reef fish and fishery catches in Seychelles](http://jpwrobinson.github.io/publication/robinson2018-qs/)
+[Coral bleaching leads to novel reef fish communities](http://jpwrobinson.github.io/publication/robinson2019-gc/)
 
 
 

@@ -16,7 +16,7 @@ weight = 1
   content = ""
   align = "center"
   overlay_img = "headers/rec_reef_fishes.jpg"  # Image path relative to your static/img/ folder.
-  overlay_filter = 0.6
+  overlay_filter = 0.1
 
 [cta]
   url = "http://jpwrobinson.github.io/publication/robinson2019-gc/robinson2019-gc.pdf"

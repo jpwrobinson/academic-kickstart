@@ -9,6 +9,8 @@ publication = "*Global Change Biology*"
 
 url_code = 'https://github.com/jpwrobinson/beta-bleaching'
 
+url_custom = [{name = 'Media 1', url = 'https://www.forbes.com/sites/grrlscientist/2019/06/21/coral-bleaching-permanently-changes-reef-fish-communities/#b30c98e52134''}]
+
 +++
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

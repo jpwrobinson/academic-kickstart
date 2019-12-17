@@ -9,6 +9,8 @@ publication = "*Functional Ecology*"
 
 url_code = 'https://github.com/jpwrobinson/grazing-grads'
 
+url_custom = [{name = "Blog", url = "https://functionalecologists.com/2019/10/10/jan-claas-dajka-fishing-grazing-and-shared-resources"}]
+
 +++
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

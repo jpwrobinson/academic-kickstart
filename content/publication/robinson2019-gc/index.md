@@ -9,7 +9,7 @@ publication = "*Global Change Biology*"
 
 url_code = 'https://github.com/jpwrobinson/beta-bleaching'
 
-url_custom = [{name = 'Media - Forbes', url = 'https://www.forbes.com/sites/grrlscientist/2019/06/21/coral-bleaching-permanently-changes-reef-fish-communities/#b30c98e52134'}, {name = 'Media - Mongabay', url = 'https://www.forbes.com/sites/grrlscientist/2019/06/21/coral-bleaching-permanently-changes-reef-fish-communities/#b30c98e52134'}]
+url_custom = [{name = "Tweetstream", url = "https://twitter.com/jamespwr/status/1140908238692597760"}, {name = 'Media - Forbes', url = 'https://www.forbes.com/sites/grrlscientist/2019/06/21/coral-bleaching-permanently-changes-reef-fish-communities/#b30c98e52134'}, {name = 'Media - Mongabay', url = 'https://www.forbes.com/sites/grrlscientist/2019/06/21/coral-bleaching-permanently-changes-reef-fish-communities/#b30c98e52134'}]
 
 +++
 

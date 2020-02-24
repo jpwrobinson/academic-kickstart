@@ -1,6 +1,6 @@
 +++
 title = """Accounting for the bin structure of data removes bias when fitting size spectra"""
-date = 2019-06-18
+date = 2020-02-20
 authors = ["Andrew M Edwards", "James PW Robinson", "Julia L Blanchard", "Julia K Baum", "Michael J Plank"]
 publication_types = ["2"]
 abstract = ""

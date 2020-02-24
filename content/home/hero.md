@@ -16,7 +16,7 @@ weight = 1
   content = ""
   align = "center"
   overlay_img = "headers/bourzwa.jpg"  # Image path relative to your static/img/ folder.
-  overlay_filter = 0.1
+  overlay_filter = 0.2
 
 [cta]
   url = "http://jpwrobinson.github.io/publication/robinson2020-sa/robinson2020-sa.pdf"

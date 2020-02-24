@@ -29,7 +29,7 @@ height = "300px"
   title = ""
   content = ""
   align = "center"
-  overlay_img = "headers/bourzwa.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/KI_underwater.jpg"  # Image path relative to your `static/img/` folder.
 
 +++
 

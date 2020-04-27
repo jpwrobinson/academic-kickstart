@@ -15,16 +15,16 @@ weight = 1
 [header]
   content = ""
   align = "center"
-  overlay_img = "headers/bourzwa.jpg"  # Image path relative to your static/img/ folder.
+  overlay_img = "headers/rec_reef_fishes.jpg"  # Image path relative to your static/img/ folder.
   overlay_filter = 0.2
 
 [cta]
-  url = "http://jpwrobinson.github.io/publication/robinson2020-sa/robinson2020-sa.pdf"
+  url = "http://jpwrobinson.github.io/publication/graham2020-nc/graham2020-nc.pdf"
   label = '<i class="fas fa-download"></i> Read the Paper'
 
 +++
 
-[Catch diversification in declining tropical fisheries](http://jpwrobinson.github.io/publication/robinson2020-sa/)
+[Changing role of coral reef marine reserves in a warming climate](http://jpwrobinson.github.io/publication/graham2020-nc/)
 
 
 
